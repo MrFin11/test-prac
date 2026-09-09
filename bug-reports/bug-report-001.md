@@ -12,6 +12,7 @@
 --green-color : #63C574; <br/>
 --red-color: #EF3C3C; <br/>
 --orange-color: #F48445; <br/>
+<img width="603" height="405" alt="image" src="https://github.com/user-attachments/assets/d40c283e-a624-426c-8181-d96bcfa54dd4" />
 
 ## Как запустить проект
 
