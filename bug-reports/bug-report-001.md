@@ -11,7 +11,7 @@ P2 Средний
 ### Установка и запуск
 
 ### Важные замечания для разработчиков
-<img width="1347" height="168" alt="Colors" src="https://github.com/user-attachments/assets/6d4bd49c-9f4b-463f-8bef-ca32c0d00e47" />
+![alt text](image.png)
 ### Работа с ассетами
 - **Шрифты:** закидывайте в `src/assets/fonts/` и подключайте через `@font-face` в CSS (Доступны MM - Montserrat medium, MB - Montserrat Bold).
 
