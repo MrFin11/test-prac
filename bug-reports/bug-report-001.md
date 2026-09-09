@@ -8,22 +8,10 @@
 s3 (Значительный)
 ### Приоретет:
 P2 Средний
-
 ### Установка и запуск
 
-1. Клонируйте репозиторий и перейдите в папку проекта:
-    git clone https://github.com/autobuscgt/openday.git
-    cd openday
-
-2. Установите зависимости:
-   npm i
-
-3. Запустите приложение в режиме разработки:
-   npm start
-   Приложение откроется по адресу http://localhost:3000
-
-## Важные замечания для разработчиков
-
+### Важные замечания для разработчиков
+<img width="1347" height="168" alt="Colors" src="https://github.com/user-attachments/assets/6d4bd49c-9f4b-463f-8bef-ca32c0d00e47" />
 ### Работа с ассетами
 - **Шрифты:** закидывайте в `src/assets/fonts/` и подключайте через `@font-face` в CSS (Доступны MM - Montserrat medium, MB - Montserrat Bold).
 
@@ -35,7 +23,7 @@ P2 Средний
 
 ### Цвета идут в четкой последовательности слева направо в соответствии с текстом сверху вниз.
 
-<img width="1347" height="168" alt="Colors" src="https://github.com/user-attachments/assets/6d4bd49c-9f4b-463f-8bef-ca32c0d00e47" />
+
 
 --white-blue: #76CAFF; <br/>
 --white-grey: #E8E8E8; <br/>
